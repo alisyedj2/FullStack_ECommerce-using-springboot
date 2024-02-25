@@ -9,6 +9,6 @@ Admin module (http://localhost:8080/admin)
 -  Username: admin
 -  Password: 123
 
-  User module (http://localhost:8080)
+  User module (http://localhost:8083)
 -  user name: ali
 -  password: 123
